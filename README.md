@@ -7,6 +7,11 @@ Desarrolladora fullStack Junior
 ## 🚀 Mi Tech Stack
 
 **Client:** 
+<p align="center">
+  <img src="https://img.icons8.com/?size=30&id=46605&format=png" alt="HTML">
+  <img src="https://img.icons8.com/?size=30&id=107497&format=png" alt="Css">
+  <img src="https://img.icons8.com/?size=30&id=46605&format=png" alt="HTML">
+</p>
 
 ![HTML](https://img.icons8.com/?size=30&id=46605&format=png)
 ![Css](https://img.icons8.com/?size=30&id=107497&format=png)
