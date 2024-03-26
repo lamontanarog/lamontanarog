@@ -37,5 +37,5 @@ Desarrolladora fullStack Junior
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lamontanarog&theme=cobalt&show_icons=true&layout=compact)](https://github.com/lamontanarog)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lamontanarog&theme=cobalt&show_icons=true&locale=en)](https://github.com/lamontanarog)
+
 
