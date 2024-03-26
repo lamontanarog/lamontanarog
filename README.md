@@ -22,19 +22,16 @@ Desarrolladora fullStack Junior
   <img src= "https://img.icons8.com/?size=40&id=54087&format=png" alt="NodeJs">
   <img src= "https://img.icons8.com/?size=30&id=9Gfx4Dfxl0JK&format=png" alt="Express">
   <img src= "https://img.icons8.com/?size=30&id=74402&format=png" alt="MongoDb">
-  
 </p>
-![NodeJS](https://img.icons8.com/?size=40&id=54087&format=png) 
-![Express](https://img.icons8.com/?size=30&id=9Gfx4Dfxl0JK&format=png)
-![MongoDb](https://img.icons8.com/?size=30&id=74402&format=png)
-
 
 **Others:**
+<p align="center">
+  <img src= "https://img.icons8.com/?size=40&id=HxCJ3JvA06ml&format=png" alt="Trello">
+  <img src= "https://img.icons8.com/?size=30&id=43169&format=png" alt="ViteJs">
+  <img src= "https://img.icons8.com/?size=30&id=20906&format=png" alt="Git">
+  <img src= "https://img.icons8.com/?size=40&id=118557&format=png" alt="GitHub">
+</p>
 
-![Trello](https://img.icons8.com/?size=40&id=HxCJ3JvA06ml&format=png)
-![Vitejs](https://img.icons8.com/?size=30&id=43169&format=png)
-![Git](https://img.icons8.com/?size=30&id=20906&format=png)
-![GitHub](https://img.icons8.com/?size=40&id=118557&format=png)
 
 ## 🚀  About Me
 
