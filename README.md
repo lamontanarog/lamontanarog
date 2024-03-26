@@ -29,9 +29,12 @@ Desarrolladora fullStack Junior
 - 🌱 Me encuentro aprendiendo a medida que avanzo con mis proyectos MongoDB junto a Moongose.
 - 🤔 Me gustaria aprender proximamente TypeScript.
 
-- 📫 Como contactarme? [Linkedin](https://www.linkedin.com/in/giuliana-lamontanaro-432a2a223)
+- 📫 Como contactarme?
+[![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:lamontanarog@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/melani-depetris/](https://www.linkedin.com/in/giuliana-lamontanaro-432a2a223))
 
-## 🚀 Mis estadisticas de GitHub
+
+## 🚀 Mis estadisticas
 
 
 
