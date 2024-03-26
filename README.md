@@ -17,6 +17,7 @@ Desarrolladora fullStack Junior
 
 
 **Server:** 
+
 ![NodeJS](https://img.icons8.com/?size=40&id=54087&format=png) 
 ![Express](https://img.icons8.com/?size=30&id=9Gfx4Dfxl0JK&format=png)
 ![MongoDb](https://img.icons8.com/?size=30&id=74402&format=png)
