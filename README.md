@@ -7,29 +7,28 @@ Desarrolladora fullStack Junior
 ## 🚀 Mi Tech Stack
 
 **Client:** 
-<div align="center">
+
 ![HTML](https://img.icons8.com/?size=30&id=46605&format=png)
 ![Css](https://img.icons8.com/?size=30&id=107497&format=png)
 ![Javascipt](https://img.icons8.com/?size=30&id=gYCTehfTlYk5&format=png)
 ![Reactjs](https://img.icons8.com/?size=30&id=lVitPDXqQKP8&format=png)
 ![Boostrap](https://img.icons8.com/?size=30&id=LPItodDU262T&format=png)
-</div>
+
 
 
 **Server:** 
-<div align="center">
 ![NodeJS](https://img.icons8.com/?size=40&id=54087&format=png) 
 ![Express](https://img.icons8.com/?size=30&id=9Gfx4Dfxl0JK&format=png)
 ![MongoDb](https://img.icons8.com/?size=30&id=74402&format=png)
-</div>
+
 
 **Others:**
-<div align="center">
+
 ![Trello](https://img.icons8.com/?size=40&id=HxCJ3JvA06ml&format=png)
 ![Vitejs](https://img.icons8.com/?size=30&id=43169&format=png)
 ![Git](https://img.icons8.com/?size=30&id=20906&format=png)
 ![GitHub](https://img.icons8.com/?size=40&id=118557&format=png)
-</div>
+
 ## 🚀  About Me
 
 
@@ -45,10 +44,7 @@ Desarrolladora fullStack Junior
 
 ## 🚀 Mis estadisticas
 
-
-<div align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lamontanarog&theme=cobalt&show_icons=true&layout=compact)](https://github.com/lamontanarog)
-</div>
 
 
 
