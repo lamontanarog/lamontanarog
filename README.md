@@ -37,7 +37,7 @@ Desarrolladora fullStack Junior
 
 
 - 🔭 Actualmente me encuentro trabajando en un proyecto FullStack, aplicando todo mi Tech Stack ---> [DivisorConsumoMern](https://github.com/lamontanarog/DivisorConsumoMern)
-- 🌱 Me encuentro aprendiendo a medida que avanzo con mis proyectos MongoDB junto a Moongose.
+- 🌱 Me encuentro aprendiendo a medida que avanzo con mis proyectos MongoDB junto a Moongose en el back y Redux/Zustand en el front.
 - 🤔 Me gustaria aprender proximamente TypeScript.
 
 - 📫 Como contactarme?
