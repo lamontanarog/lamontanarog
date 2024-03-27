@@ -2,8 +2,7 @@
 # ¡Hola! 👋 Soy Giuliana Lamontanaro
 
 Desarrolladora fullStack Junior
-Si gustas puedes pasar a ver mi portfolio!
-[Portfolio](https://portafolio-lamontanaro-giuliana.vercel.app/)
+Si gustas puedes pasar a ver mi [Portfolio](https://portafolio-lamontanaro-giuliana.vercel.app/) !
 
 ## 🚀 Mi Tech Stack
 
