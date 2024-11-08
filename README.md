@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Giuliana Lamontanaro
 
-Desarrolladora fullStack Junior
+Desarrolladora fullStack Junior, apasionada por el Front!
 Si gustas puedes pasar a ver mi [Portfolio](https://portafolio-lamontanaro-giuliana.vercel.app/) !
 
 ## 🚀 Mi Tech Stack
