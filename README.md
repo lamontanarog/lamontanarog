@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Giuliana Lamontanaro
 
-Desarrolladora fullStack Junior, apasionada por el Front!
+Desarrolladora fullStack, apasionada por el Front!
 Si gustas puedes pasar a ver mi [Portfolio](https://portafolio-lamontanaro-giuliana.vercel.app/) !
 
 ## 🚀 Mi Tech Stack
@@ -26,8 +26,8 @@ Si gustas puedes pasar a ver mi [Portfolio](https://portafolio-lamontanaro-giuli
 
 
 - 🔭 Actualmente me encuentro trabajando en un proyecto en @Byron-Tech-Solutions como Frontend Developer ---> [Byron](https://github.com/Byron-Tech-Solutions)
-- 🌱 Me encuentro aprendiendo a medida que avanzo con mis proyectos Typescript.
-- 🤔 Me gustaria aprender proximamente Docker.
+- 🌱 Me encuentro aprendiendo a medida que avanzo con mis proyectos Docker.
+- 🤔 Me gustaria aprender proximamente AWS.
 
 - 📫 Como contactarme?
 
