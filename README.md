@@ -37,4 +37,4 @@ Si gustas puedes pasar a ver mi [Portfolio](https://portafolio-lamontanaro-giuli
 
 ## 🚀 Mis estadisticas
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lamontanarog&theme=cobalt&show_icons=true&layout=compact)](https://github.com/lamontanarog)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamontanarog&theme=cobalt&layout=compact)](https://github.com/lamontanarog)
